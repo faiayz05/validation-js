@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items:center;
+    height: 100vh;
+    background: gray;
+    margin-left: 500px;
+}
+div.style{
+    background: rgb(214, 214, 214);
+    padding: 50px;
+    text-align: center;
+    border-radius: 15px;
+    width: 500px;
+}
+form input{
+    padding: 10px;
+    margin: 10px;
+    
+}
